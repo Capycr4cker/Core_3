@@ -128,3 +128,7 @@ section.friends{
     margin-left: 10px;
     cursor: pointer;
 }
+
+.numero_likes>.button:hover{
+    background-color: #ffc107;
+}
